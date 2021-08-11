@@ -26,7 +26,7 @@ while True:
     word_emb.append([line[:-1], get_cosine_similarity(query_emb, model.encode([line[:-1]]))])
 
 sim_scores = sorted(word_emb, key=lambda x: x[1], reverse=True)
-sim_scores = sim_scores[1:21]
+sim_scores = sim_scores[0:20]
 top = [i[0] for i in sim_scores]
 
 f_out = open(query+'_transformer_sim.txt', 'w')
