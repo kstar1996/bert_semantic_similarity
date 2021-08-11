@@ -1,0 +1,20 @@
+typewriter keyboard
+keypad
+piano accordion
+upright piano
+hand-held computer
+desktop computer
+grand piano
+notebook computer
+computer mouse
+desk
+organ
+speaker system
+laptop computer
+mouth organ
+accordion
+turnstile
+microphone
+mouth harp
+laptop
+joystick
