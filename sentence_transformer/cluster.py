@@ -1,9 +1,7 @@
-from bert_serving.client import BertClient
 from sklearn.cluster import KMeans
 from sklearn import manifold
 import matplotlib.pyplot as plt
 import numpy as np
-from sklearn.metrics.pairwise import cosine_similarity
 from sentence_transformers import SentenceTransformer
 
 
