@@ -1,3 +1,4 @@
+strawberry
 lemon
 orange
 pineapple
@@ -17,4 +18,3 @@ acorn
 spaghetti squash
 Pekinese
 artichoke
-globe artichoke

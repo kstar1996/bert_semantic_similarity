@@ -24,7 +24,7 @@ for i in range(len(new_list)):
     new_list[i][1] = get_cosine_similarity(new_list[i][1], query_emb)
 
 sim_scores = sorted(new_list, key=lambda x: x[1], reverse=True)
-sim_scores = sim_scores[1:21]
+sim_scores = sim_scores[0:20]
 top = [i[0] for i in sim_scores]
 
 f_out = open('top20/'+query+'_transformer_sim.txt', 'w')

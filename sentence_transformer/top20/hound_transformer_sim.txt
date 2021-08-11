@@ -1,3 +1,4 @@
+basset hound
 Walker hound
 Afghan hound
 gazelle hound
@@ -17,4 +18,3 @@ Boston terrier
 wire-haired fox terrier
 Shetland sheepdog
 Old English sheepdog
-Maltese dog

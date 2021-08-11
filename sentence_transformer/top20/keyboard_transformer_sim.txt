@@ -1,3 +1,4 @@
+computer keyboard
 typewriter keyboard
 keypad
 piano accordion
@@ -17,4 +18,3 @@ turnstile
 microphone
 mouth harp
 laptop
-joystick
